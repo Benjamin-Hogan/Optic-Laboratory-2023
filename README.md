@@ -1,5 +1,5 @@
 # Optic-Laboratory-2023
-Data and Code for Optics Lab
+Data and Code for Undergraduate Optics Lab Taught by Dr. Andri Gretarsson
 
 Data interpertation, Physical simulations, and more are represented within this repository
 
